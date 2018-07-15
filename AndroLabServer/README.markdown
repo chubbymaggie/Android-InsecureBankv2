@@ -13,7 +13,10 @@ Install the below libraries using: easy_install <libraryname>
 * flask-sqlalchemy
 * simplejson
 * cherrypy
+* web.py
 
+Alternatively just use:
+pip install -r requirements.txt
 
 Running the python server
 -----
